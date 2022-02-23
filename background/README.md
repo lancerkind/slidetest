@@ -1,1 +1,1 @@
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://github.com/lancerkind/slidetest/blob/main/background/Lance%20Kind%20Intro%20slide.pptx]' width='100%' height='600px' frameborder='0'>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src={https://github.com/lancerkind/slidetest/blob/main/background/Lance%20Kind%20Intro%20slide.pptx}' width='100%' height='600px' frameborder='0'>
